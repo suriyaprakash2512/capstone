@@ -1,0 +1,16 @@
+D:\Capstone\BlogLib\BlogLib\bin\Debug\BlogLib.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\BlogLib.pdb
+D:\Capstone\BlogLib\BlogLib\obj\Debug\BlogLib.csproj.AssemblyReference.cache
+D:\Capstone\BlogLib\BlogLib\obj\Debug\BlogLib.csproj.CoreCompileInputs.cache
+D:\Capstone\BlogLib\BlogLib\obj\Debug\BlogLib.dll
+D:\Capstone\BlogLib\BlogLib\obj\Debug\BlogLib.pdb
+D:\Capstone\BlogLib\BlogLib\bin\Debug\Mono.Cecil.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\nunit.engine.api.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\nunit.engine.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\nunit.framework.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\NUnit3.TestAdapter.dll
+D:\Capstone\BlogLib\BlogLib\bin\Debug\nunit.framework.xml
+D:\Capstone\BlogLib\BlogLib\obj\Debug\BlogLib.csproj.CopyComplete
